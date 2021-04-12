@@ -3,6 +3,8 @@
 ![I am Cybersecurity specialists](https://github-readme-stats.vercel.app/api?username=prabhatkumar-debug&show_icons=true&theme=radical)
 
 ![blue-team-star-challenge](https://user-images.githubusercontent.com/60494696/114348574-5e005300-9b84-11eb-999c-f1bc28d0963a.png)
+![lifelong-learning](https://user-images.githubusercontent.com/60494696/114349018-f7c80000-9b84-11eb-9bec-1812ccebc5aa.png)
+
 
 Career Overview
 Tech Enthusiast and a geek with interest in techy fields like Virtualization,Networking, Cloud and IOT.
@@ -20,7 +22,8 @@ Student at Sharda University |B.Tech|C.S.E |Computer Science &Engineering with S
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatkumar-debug)](https://github.com/anuraghazra/github-readme-stats)
 
-![blue-team-star-challenge](https://user-images.githubusercontent.com/60494696/114348574-5e005300-9b84-11eb-999c-f1bc28d0963a.png)
+![lifelong-learning](https://user-images.githubusercontent.com/60494696/114349018-f7c80000-9b84-11eb-9bec-1812ccebc5aa.png)
+
 
 
 
